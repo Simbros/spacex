@@ -1,0 +1,50 @@
+todo: Jesse, Shape narrative
+todo: Jesse, Design ship
+ 
+todo: Lee, Design ship
+todo: Lee, Bedroom
+todo: Lee, Dream transition
+
+Design
+	Shape narrative
+	Design ship
+		Control room
+		Bedroom
+		Hangar
+		Biology lab
+		Engineering
+	Imagine/Design new planets
+	Populate planets
+	Develop characters
+	Design chat system
+	Design character progression system
+	Design character stat system
+	Design inventory system
+	Design items/weapons
+	Design combat
+	Design enemies
+	
+Functionality
+	Implement ship rooms
+	Implement transition screens
+	Implement combat
+	Implement space travel
+	
+Visual
+	Create main character sprite/animation
+	Create tileset for ship
+	Create ship's characters
+	Create alien races
+	Create tileset for planets
+
+Audio
+	Create theme music to set the overall tone
+	Create ship music
+	Sound effects (Common)
+	Sound effects (Unique)
+	Create music for each planet
+
+Optional Features
+	Character design
+	Crafting
+	Furnishing ship

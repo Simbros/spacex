@@ -13,6 +13,7 @@
     <sprite>sprites\spr_door</sprite>
     <sprite>sprites\spr_companion</sprite>
     <sprite>sprites\spr_console</sprite>
+    <sprite>sprites\spr_bed</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_ship_floor</background>
@@ -30,11 +31,13 @@
     <object>objects\obj_companion</object>
     <object>objects\obj_console</object>
     <object>objects\obj_dream_state</object>
+    <object>objects\obj_bed</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_ship</room>
     <room>rooms\rm_dream</room>
     <room>rooms\rm_helm</room>
+    <room>rooms\rm_captainsQuarters</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

@@ -17,6 +17,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\bg_ship_floor</background>
+    <background>background\bg_mist</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -32,6 +33,7 @@
     <object>objects\obj_console</object>
     <object>objects\obj_dream_state</object>
     <object>objects\obj_bed</object>
+    <object>objects\obj_explosion</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_ship</room>

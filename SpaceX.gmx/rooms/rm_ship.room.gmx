@@ -66,8 +66,7 @@
     <instance objName="obj_wall" x="992" y="256" name="inst_583BCCB8" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="992" y="480" name="inst_683A47BE" locked="0" code="" scaleX="1" scaleY="6" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="576" y="256" name="inst_B90F45E5" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_door" x="992" y="192" name="inst_5C39A165" locked="0" code="dest_room = rm_captainsQuarters;&#xA;dest_x = 32;&#xA;dest_y = 96;&#xA;" scaleX="-0.5" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="obj_door" x="992" y="416" name="inst_EFBEC0DF" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_door" x="992" y="192" name="inst_94C8BF85" locked="0" code="dest_room = rm_captainsQuarters;&#xA;dest_x = 32;&#xA;dest_y = 64;&#xA;" scaleX="0.5" scaleY="2" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
